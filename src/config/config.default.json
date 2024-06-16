@@ -1,0 +1,9 @@
+{
+    "clientID":"1250998026273689675",
+    "clientSecret":"FiviXuXH72Cr3Cg7ppfX6QtuW5KicjYQ",
+    "callbackURL":"https://65.0.95.106/callback",
+    "Admin":["1182856767286288507"],
+    "token":"",
+    "prefix":"-",
+    "port":"8080"
+}
